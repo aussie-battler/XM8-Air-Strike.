@@ -1,4 +1,7 @@
 # XM8-Air-Strike.
+Updated 8/24/2021
+Thanks to The Tall Man for the extra features he added and the server side code for the respect cost!
+
 This will call in air strike for player and strike targets that player designates with laser.
 
 This script will use button in XM8 for Exile players to call an Air Stike at their position.
