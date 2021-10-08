@@ -1,4 +1,10 @@
 # XM8-Air-Strike.
+Updated 10/7/2021
+This update includes alot of fixes. 1st fix was to get the script to end completely when jet was shot down or left due to time being up. Removed the config file to get rid of 
+global variables and use all local variables. 2nd fix was adding in a message displaying how long player has to wait in seconds to call new strike, the time displayed updates with new time each press of button. 3rd fix was to reset the cooldown to zero when player gets message about needing laser designator so they can actually use press it and use it when they equip the designator instead of waiting for cooldown since they did not actually get the jet yet. Added in code for jet to have unlimited ammo so player can blow up as many targets as they want in the time the jet is active for them. 4th fix was deleting the pilot if jet gets shot down so they do not stay on the server using up resources.
+
+If you have any questions contact Crito at https://discord.gg/HMFVyAy
+
 Updated 8/24/2021
 Thanks to The Tall Man for the extra features he added and the server side code for the respect cost!
 
